@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 Jan 2025 23:34:39 at https://kitchen-sale.xyz/ https://kitchen-sale.xyz/product-details/d9d4f495e875a2e075a1a4a6e1b9770f +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYr5%e5C2%Ps2u1%s%uN0%I0p3DdK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://kitchen-sale.xyz/ https://kitchen-sale.xyz/product-details/d9d4f495e875a2e075a1a4a6e1b9770f -O1 "C:\Users\manish\OneDrive\Desktop\ankit\flipkart" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:35:14	Warning: 	Moved Permanently for kitchen-sale.xyz/robots.txt
+23:35:14	Warning: 	Redirected link is identical because of 'URL Hack' option: kitchen-sale.xyz/robots.txt and https://kitchen-sale.xyz/robots.txt
+23:35:14	Warning: 	Warning moved treated for kitchen-sale.xyz/robots.txt (real one is https://kitchen-sale.xyz/robots.txt)
+23:35:14	Warning: 	Moved Permanently for kitchen-sale.xyz/api_services/
+23:35:14	Warning: 	Redirected link is identical because of 'URL Hack' option: kitchen-sale.xyz/api_services/ and https://kitchen-sale.xyz/api_services/
+23:35:14	Warning: 	File has moved from kitchen-sale.xyz/api_services/ to https://kitchen-sale.xyz/api_services/
+23:35:14	Warning: 	Moved Permanently for kitchen-sale.xyz/admin_panel/
+23:35:14	Warning: 	Redirected link is identical because of 'URL Hack' option: kitchen-sale.xyz/admin_panel/ and https://kitchen-sale.xyz/admin_panel/
+23:35:14	Warning: 	File has moved from kitchen-sale.xyz/admin_panel/ to https://kitchen-sale.xyz/admin_panel/
+23:35:14	Error: 	"Not Found" (404) at link https://kitchen-sale.xyz/external452e452e452e452e.html?link=http://www.w3.org/2000/svg (from https://kitchen-sale.xyz/)
+23:35:14	Error: 	"Not Found" (404) at link https://kitchen-sale.xyz/files/1.jpg (from https://kitchen-sale.xyz/)
+23:35:15	Error: 	"Not Found" (404) at link https://kitchen-sale.xyz/files/12.jpg (from https://kitchen-sale.xyz/product-details/d9d4f495e875a2e075a1a4a6e1b9770f)
+23:35:15	Error: 	"Not Found" (404) at link https://kitchen-sale.xyz/a (from https://connect.facebook.net/en_US/fbevents.js)
+23:35:15	Error: 	"Not Found" (404) at link https://kitchen-sale.xyz/POST (from https://connect.facebook.net/en_US/fbevents.js)
+23:35:15	Error: 	"Not Found" (404) at link https://kitchen-sale.xyz/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+23:35:15	Error: 	"Not Found" (404) at link https://kitchen-sale.xyz/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+23:35:15	Error: 	"Not Found" (404) at link https://kitchen-sale.xyz/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+23:35:15	Error: 	"Not Found" (404) at link https://kitchen-sale.xyz/popper.js (from https://kitchen-sale.xyz/assets/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 seconds : 63 links scanned, 50 files written (2369418 bytes overall) [1848175 bytes received at 51338 bytes/sec], 896060 bytes transferred using HTTP compression in 42 files, ratio 33%, 4.8 requests per connection
+(9 errors, 9 warnings, 0 messages)

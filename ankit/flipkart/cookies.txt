@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kitchen-sale.xyz	TRUE	/	FALSE	1999999999	PHPSESSID	slerpsg6r44r0176bf7u2ah0jv
+
